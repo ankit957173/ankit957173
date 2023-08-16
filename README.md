@@ -40,6 +40,7 @@ I am a passionate Full Stack Web Developer with a strong inclination towards sof
 - JavaScript
 - HTML & CSS
 - Java
+- Git & GitHub
 - Blockchain
 - Cryptography
 - Web3.js
