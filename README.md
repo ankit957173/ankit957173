@@ -35,6 +35,7 @@ I am a passionate Full Stack Web Developer with a strong inclination towards sof
 
 - Node.js
 - MongoDB
+- SQL
 - React
 - Express.js
 - JavaScript
@@ -71,8 +72,6 @@ I am a passionate Full Stack Web Developer with a strong inclination towards sof
 - Financial world: learning more
 
 ## Links
-![<Twitter>](https://img.shields.io/badge/<Twitter>-<Background Color>?style=for-the-badge&logo=<Twitter>&logoColor=<RED>)
-
 
 - [Twitter](https://twitter.com/ankitsingh)
 - [LinkedIn](https://www.linkedin.com/in/ankitsinghtanwar/)
