@@ -25,10 +25,10 @@ I join as a software developer.
   - Cumulative Grade Point Average (CGPA): 8.23
 
 - **High School Diploma** at New Bright Future Senior Secondary School, Jaipur *(Apr 2018 — Mar 2019)*
-  - Graduated with 74%
+  - Graduated with 74.40%
 
 - **10th (Secondary)** at New Bright Future Senior Secondary School, Jaipur *(Apr 2016 — Mar 2017)*
-  - Graduated with 81%
+  - Graduated with 81.17%
 
 ## Skills
 
