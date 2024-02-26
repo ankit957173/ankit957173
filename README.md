@@ -10,7 +10,12 @@
 
 ## About Me
 
-I am a passionate Full Stack Web Developer with a strong inclination towards software development. I am currently in my 6th semester, exploring various technologies that are in high demand in the industry. My skill set includes Node.js, MongoDB, React, Express.js, JavaScript, HTML & CSS, and Java, allowing me to create dynamic and responsive web applications. In addition, I am deeply fascinated by blockchain technology and have gained expertise in concepts like Cryptography, Web3.js, Solidity, Smart Contracts, Truffle, Dapps, Hardhat, NFTs, and Metaverse, with a keen understanding of their potential to revolutionize the digital world. I am confident that my skills and knowledge make me a valuable asset for any organization as a software developer.
+ I'm a 8th-semester fresher passionate about software development. Proficient in Node.js, 
+MongoDB, Express.js, JavaScript, HTML/CSS, and Java, I create dynamic web apps. I'm also 
+keen on blockchain tech, with expertise in Cryptography, Web3.0, Solidity, Smart Contracts, 
+Dapps, NFTs, and the Metaverse, poised to innovate the digital realm. 
+I believe that with my skills and knowledge, I can be a valuable asset to any organization that 
+I join as a software developer.
 
 ## Fresher
 
