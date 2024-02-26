@@ -32,22 +32,22 @@ I join as a software developer.
 
 ## Skills
 
-Communication Skills
- Critical thinking and Problem Solving
- Fast Learner
- Node.js
- MongoDB
- Express.js
- JavaScript
- HTML & CSS
- Java
- OOPs
- DSA: Arrays, Strings, Linked Lists, 
-Stack, HashMap
- Git and GitHub
- Solidity
- SQL
- Reactjs
+ -Communication Skills
+ -Critical thinking and Problem Solving
+ -Fast Learner
+ -Node.js
+ -MongoDB
+ -Express.js
+ -JavaScript
+ -HTML & CSS
+ -Java
+ -OOPs
+ -DSA: Arrays, Strings, Linked Lists, 
+ -Stack, HashMap
+ -Git and GitHub
+ -Solidity
+ -SQL
+ -Reactjs
 
 
 ## Languages
