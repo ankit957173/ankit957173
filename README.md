@@ -12,13 +12,7 @@
 
 I am a passionate Full Stack Web Developer with a strong inclination towards software development. I am currently in my 6th semester, exploring various technologies that are in high demand in the industry. My skill set includes Node.js, MongoDB, React, Express.js, JavaScript, HTML & CSS, and Java, allowing me to create dynamic and responsive web applications. In addition, I am deeply fascinated by blockchain technology and have gained expertise in concepts like Cryptography, Web3.js, Solidity, Smart Contracts, Truffle, Dapps, Hardhat, NFTs, and Metaverse, with a keen understanding of their potential to revolutionize the digital world. I am confident that my skills and knowledge make me a valuable asset for any organization as a software developer.
 
-## Employment History
-
-- **Full Stack Web Developer Intern** at Learn And Build, Jaipur *(Jul 2022 — Sep 2022)*
-  - Conducted code review, debugging, and issue resolution.
-  - Evaluated software and hardware interfaces with peers.
-  - Developed and managed databases using NodeJS and SQL/No-SQL.
-  - Worked on user interface development using modern Javascript frameworks, HTML5, and CSS3.
+## Fresher
 
 ## Education
 
