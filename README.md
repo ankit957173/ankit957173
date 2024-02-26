@@ -32,37 +32,28 @@ I join as a software developer.
 
 ## Skills
 
-- Node.js
-- MongoDB
-- SQL
-- React
-- Express.js
-- JavaScript
-- HTML & CSS
-- Java
-- Git & GitHub
-- Blockchain
-- Cryptography
-- Web3.js
-- Solidity
-- Smart Contracts
-- Truffle
-- Dapps
-- Hardhat
-- NFTs, Metaverse
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms: Arrays, Linked Lists, Stack, Queue, Binary Tree, Hash Map
+Communication Skills
+ Critical thinking and Problem Solving
+ Fast Learner
+ Node.js
+ MongoDB
+ Express.js
+ JavaScript
+ HTML & CSS
+ Java
+ OOPs
+ DSA: Arrays, Strings, Linked Lists, 
+Stack, HashMap
+ Git and GitHub
+ Solidity
+ SQL
+ Reactjs
 
-## Courses
-
-- **Data Structure & Algorithms In Java** at Coding Ninja *(Feb 2023 — Aug 2023)*
-- **Data Structures and Algorithms (Self-Paced Course)** at GeeksforGeeks *(Feb 2023 — Nov 2023)*
 
 ## Languages
 
-- English (Fluent)
-- Hindi (Native)
-
+- English
+- Hindi 
 ## Hobbies
 
 - Market trends analysis: enjoyable
