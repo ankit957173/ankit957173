@@ -1,19 +1,17 @@
 # Ankit Singh Tanwar - Full Stack Web Developer
 
-![Profile Picture](profile_picture.png)
-
 ## Contact Information
 
-- **Email:** ankitsingh957173@gmail.com
+- **Email:** ankit.tanwar.professional@gmail.com
 - **Phone:** +919571737842
-- **Address:** Nand Gaon Colony, Niwaru Road, Jhotwara, Jaipur, 302012, India
+- **Address:** Jaipur, Rajasthan, 302012, India
 
 ## About Me
 
- I'm a 8th-semester fresher passionate about software development. Proficient in Node.js, 
+I'm a fresher passionate about software development. Proficient in Node.js, 
 MongoDB, Express.js, JavaScript, HTML/CSS, and Java, I create dynamic web apps. I'm also 
 keen on blockchain tech, with expertise in Cryptography, Web3.0, Solidity, Smart Contracts, 
-Dapps, NFTs, and the Metaverse, poised to innovate the digital realm. 
+Dapps, NFTs, poised to innovate the digital realm. 
 I believe that with my skills and knowledge, I can be a valuable asset to any organization that 
 I join as a software developer.
 
@@ -34,13 +32,13 @@ I join as a software developer.
 
  - Communication Skills
  - Critical thinking and Problem Solving
+ - C, C++, Java
  - Fast Learner
  - Node.js
  - MongoDB
  - Express.js
  - JavaScript
  - HTML & CSS
- - Java
  - OOPs
  - DSA: Arrays, Strings, Linked Lists, 
  - Stack, HashMap
@@ -62,6 +60,5 @@ I join as a software developer.
 - Financial world: learning more
 
 ## Links
-
-- [Twitter](https://twitter.com/ankitsingh)
-- [LinkedIn](https://www.linkedin.com/in/ankitsinghtanwar/)
+- [Twitter](https://x.com/i_m_Ankit_001)
+- [LinkedIn](https://www.linkedin.com/in/ankit-singh-tanwar/)
