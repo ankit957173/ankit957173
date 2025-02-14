@@ -60,5 +60,6 @@ I join as a software developer.
 - Financial world: learning more
 
 ## Links
-- [Twitter](https://x.com/i_m_Ankit_001)
+- [Leetcode](https://leetcode.com/u/Ankit957173/)
+- [HackerRank](https://www.hackerrank.com/profile/ankitsingh957173)
 - [LinkedIn](https://www.linkedin.com/in/ankit-singh-tanwar/)
