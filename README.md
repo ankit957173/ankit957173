@@ -4,7 +4,7 @@
 
 - **Email:** ankit.tanwar.professional@gmail.com
 - **Phone:** +919571737842
-- **Address:** Jaipur, Rajasthan, 302012, India
+- **Address:** Jaipur, Rajasthan, India
 
 ## About Me
 
