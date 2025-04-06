@@ -1,65 +1,102 @@
-# Ankit Singh Tanwar - Full Stack Web Developer
+# Ankit Singh Tanwar
 
-## Contact Information
+**Email:** [ankit.tanwar.professional@gmail.com](mailto:ankit.tanwar.professional@gmail.com)  
+**LinkedIn:** [linkedin.com/in/ankit-singh-tanwar](https://linkedin.com/in/ankit-singh-tanwar)  
+**GitHub:** [github.com/ankit957173](https://github.com/ankit957173)  
+**Leetcode:** [leetcode.com/ankit957173](https://leetcode.com/ankit957173)  
 
-- **Email:** ankit.tanwar.professional@gmail.com
-- **Phone:** +919571737842
-- **Address:** Jaipur, Rajasthan, India
+---
 
-## About Me
+## 👋 About Me
 
-I'm a fresher passionate about software development. Proficient in Node.js, 
-MongoDB, Express.js, JavaScript, HTML/CSS, and Java, I create dynamic web apps. I'm also 
-keen on blockchain tech, with expertise in Cryptography, Web3.0, Solidity, Smart Contracts, 
-Dapps, NFTs, poised to innovate the digital realm. 
-I believe that with my skills and knowledge, I can be a valuable asset to any organization that 
-I join as a software developer.
+Constantly driven to expand my knowledge, I strive to learn and apply new skills while challenging myself to excel and meet company requirements. I am a quick learner, a collaborative team player, and adaptable to different technologies.
 
-## Fresher
+---
 
-## Education
+## 🛠️ Skills
 
-- **Bachelor of Technology: Computer Science** at Anand International College of Engineering, Jaipur *(Aug 2020 — Aug 2024)*
-  - Cumulative Grade Point Average (CGPA): 8.23
+### **Languages**
+- C/C++
+- Java
+- JavaScript / TypeScript
+- HTML / CSS
+- SQL
 
-- **High School Diploma** at New Bright Future Senior Secondary School, Jaipur *(Apr 2018 — Mar 2019)*
-  - Graduated with 74.40%
+### **Programming Proficiency**
+- Data Structures & Algorithms (Java, C++)
+- Object-Oriented Programming
 
-- **10th (Secondary)** at New Bright Future Senior Secondary School, Jaipur *(Apr 2016 — Mar 2017)*
-  - Graduated with 81.17%
+### **Technologies & Frameworks**
+- React
+- Node.js / Express.js
+- MongoDB
+- Tailwind CSS
+- AWS
+- Blockchain
 
-## Skills
+### **Developer Tools**
+- VS Code
+- Git / GitHub
+- IntelliJ IDEA
 
- - Communication Skills
- - Critical thinking and Problem Solving
- - C, C++, Java
- - Fast Learner
- - Node.js
- - MongoDB
- - Express.js
- - JavaScript
- - HTML & CSS
- - OOPs
- - DSA: Arrays, Strings, Linked Lists, 
- - Stack, HashMap
- - Git and GitHub
- - Solidity
- - SQL
- - Reactjs
+### **Soft Skills**
+- Strong Communication
+- Problem-Solving
+- Adaptability
+- Critical & Logical Thinking
 
+---
 
-## Languages
+## 🎓 Education
 
-- English
-- Hindi 
-## Hobbies
+- **B.Tech in Computer Science and Engineering**  
+  Anand International College of Engineering (2020–2024)  
+  *CGPA: 8.34*
 
-- Market trends analysis: enjoyable
-- Buying and selling stocks: informed decisions
-- Investments: exciting growth over time
-- Financial world: learning more
+- **12th (Non-Medical)**  
+  New Bright Future Senior Secondary School (2018–2019)  
+  *Percentage: 74.40%*
 
-## Links
-- [Leetcode](https://leetcode.com/u/Ankit957173/)
-- [HackerRank](https://www.hackerrank.com/profile/ankitsingh957173)
-- [LinkedIn](https://www.linkedin.com/in/ankit-singh-tanwar/)
+- **10th**  
+  New Bright Future Senior Secondary School (2016–2017)  
+  *Percentage: 81.17%*
+
+---
+
+## 🏆 Achievements
+- Consistently received scholarships and college appreciation awards every semester.
+- Solved over **250+ problems** across multiple competitive programming platforms.
+
+---
+
+## 💻 Projects
+
+### [TrustLink](https://mern-auth-axuo.onrender.com/)
+A secure authentication and authorization system with advanced features:
+- Email OTP verification and Google Sign-In
+- Profile updation
+- Home Page featuring a Password Manager
+- Enquiry form generating PDF and sending details to users and admin.
+
+**Tech Stack:** JavaScript, Tailwind CSS, Firebase, MERN, Redux
+
+---
+
+### [Chatty](http://chatty-tepr.onrender.com/)
+A real-time chat application packed with cool features:
+- 32+ customizable themes.
+- Realtime user status with online/offline indicators.
+- Support for messaging and image sharing.
+
+**Tech Stack:** JavaScript, MERN, Socket.io, Tailwind CSS, Daisy UI, JWT, Zustand
+
+---
+
+## 📜 Certifications
+- Full Stack Web Developer – LEARN AND BUILD
+- C for Everyone: Programming Fundamentals – COURSERA
+- AWS, SQL, JAVA, C – PREPINSTA
+
+---
+
+Feel free to explore my GitHub repositories and connect with me for exciting opportunities or collaborations!
